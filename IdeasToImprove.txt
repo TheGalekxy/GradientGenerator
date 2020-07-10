@@ -1,0 +1,5 @@
+https://jk-gradient.netlify.app/
+-change from horizontal,vertical,radial, Diagonal left to right, or Diagonal right to left gradients
+-randomize only the top value
+-randomize only the bottom value
+-swap the colors between top and bottom value
